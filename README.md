@@ -1,2 +1,1 @@
-# SwiftNotes
-# SwiftNotes
+# TipC
