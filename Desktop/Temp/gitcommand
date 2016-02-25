@@ -1,0 +1,9 @@
+git add .
+git commit -m ""
+git push -u origin view
+
+
+git checkout branch_name
+git branch
+
+git pull
